@@ -52,9 +52,10 @@ node sync.js
 npm start
 ```
 
-The server will start running at `http://localhost:3000`.
+The server will start running at `http://localhost:3001`.
 
 ## API Endpoints
+![Insomnia](https://github.com/dylanmatthewcoito/mc13-E-Commerce-Back-End/assets/71201051/a48b273e-34a8-43b8-80a9-2579d99443f7)
 
 ### Categories
 
