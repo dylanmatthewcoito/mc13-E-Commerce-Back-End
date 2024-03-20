@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1eBmKps-ii0Y7Z7BllY5ewemzDmFtkvsr/view
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ecommerce-backend.git
+git clone git@github.com:dylanmatthewcoito/mc13-E-Commerce-Back-End.git
 ```
 
 2. Install the dependencies:
